@@ -2,6 +2,6 @@
  My Code from the Advent of Code 2020
 
 How to run:
-- install ghci (Haskell)
-- open shell
-- enter "runhaskell filename.hs input.txt"
+Install ghci (Haskell)
+Open shell & enter "runhaskell aocx.hs inputx.txt"
+(replace x with the day-nr)
