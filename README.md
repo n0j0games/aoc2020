@@ -4,4 +4,4 @@
 How to run:
 - Install ghci (Haskell)
 - Open shell
-- Enter "runhaskell aocX.hs inputX.txt" (replace X with the day-number)
+- Enter "runhaskell aocX.hs inputX.txt" (replace X with the day-number, e.g. 06 or 24)
